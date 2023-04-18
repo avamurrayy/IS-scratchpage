@@ -1,0 +1,15 @@
+.image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+a{
+    color: green;
+}
+
+.tableauPlaceholder{
+    width: 50px
+    ;
+}
